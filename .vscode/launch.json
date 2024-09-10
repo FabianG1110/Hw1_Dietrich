@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/anthonyenriquez/Library/Mobile Documents/com~apple~CloudDocs/Education /SCHOOL/Fall 2024/CS2/Assigments/hw01_2380 (1)/Hw1_Dietrich",
+      "program": "/Users/anthonyenriquez/Library/Mobile Documents/com~apple~CloudDocs/Education /SCHOOL/Fall 2024/CS2/Assigments/hw01_2380 (1)/Hw1_Dietrich/build/Debug/outDebug"
+    }
+  ]
+}
